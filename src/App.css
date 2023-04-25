@@ -1,0 +1,32 @@
+.App {
+  width: 900px;
+  margin: 0 auto;
+  box-shadow: 0 0 7px 2px grey;
+}
+
+
+.App-header {
+  height: 25%;
+  background-color: rgb(121, 36, 36);
+  color: white;
+  padding: 10px;
+
+
+}
+
+h3 {
+  font-size: 30px;
+  margin: 0px 0px 0px 0px;
+}
+
+p {
+  font-size: 24px;
+}
+
+main {
+  background-color: lightgrey;
+  color: black;
+  padding: 10px;
+  text-align: center;
+
+}
